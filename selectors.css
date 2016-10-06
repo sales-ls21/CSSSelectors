@@ -1,0 +1,44 @@
+header{
+	border: 1px solid red;
+}
+header ul li {
+	display: inline;
+	padding: 20px;
+}
+section {
+	clear: both;
+}
+.active {
+	color: yellow;
+}
+#red{
+	color: red;
+}
+#blue {
+	color:blue;
+}
+.disabled{
+	color: grey ;
+}
+a.disabled{
+	color: purple;
+}
+#rb {
+	background-color: red;
+}
+#bb{
+	background-color: blue;
+}
+#granny{
+	border: 1px solid black;
+	border-radius: 30px;
+}
+.promo {
+	color: gold;
+	font-weight: bold;
+}
+input{
+	font-size: 25px;
+}
+
+
